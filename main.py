@@ -23,6 +23,7 @@ def generate_phonetic():
     else:
         print(phonetic_word_list)
 
+# Call the function generate_phonetic()
 generate_phonetic()
 
 
